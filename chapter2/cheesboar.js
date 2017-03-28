@@ -32,7 +32,7 @@ do{
     line ='';
   }
   else{
-   for(var i=0 ;line.length <= size; i++)
+   for(var i=0 ; line.length <= size; i++)
       line = line +  black + white ;
    console.log(line);
    line ='';
